@@ -7,6 +7,6 @@ Yellow lorry
 Red lorry
 Yellow lorry
 
-GREEN lorry
+Green lorry
 
 ...and so on.
