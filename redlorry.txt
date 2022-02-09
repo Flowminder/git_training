@@ -1,0 +1,8 @@
+Red lorry
+Yellow lorry
+Red lorry
+Yellow lorry
+Red lorry
+Yellow lorry
+
+...and so on.
